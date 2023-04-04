@@ -7,10 +7,6 @@ O Framework iMercur foi concebido para promover a integração entre plataformas
 
 ## 2. Telas 
 
-A DuckSales Ltda. tem um sistema de controle de produtos que fornece essas informações para a sua loja virtual. As informação de preço e estoque mudam com grande frequencia dado seu volume de vendas e as promoções, chegando à milhares de mudanças em um segundo.
-
-Para minificar os acessos ao seu bando de dados transacional o time de TI decidiu criar um banco NOSQL onde os dados do produto seram salvos em um formato simplificado e a API de consulta de produtos, que esta em gestão de outro time da empresa.
-
 ### 2.1. Login
 
 

@@ -9,7 +9,7 @@ O Framework iMercur foi concebido para promover a integração entre plataformas
 
 ### 2.1. Login
 
-![Tela de Login](_assets/Front.login.png)
+![Tela de Login](assets/Front.login.png)
 
 ### 2.2. Canais
 

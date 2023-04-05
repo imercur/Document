@@ -13,13 +13,33 @@ O Framework iMercur foi concebido para promover a integração entre plataformas
 
 ### 2.2. Canais
 
-TDB
+Tela de cadastro de canais.
+
+![Cadastro de Canais](assets/Front.channel.create.png)
+
+Tela de listagem de canais cadastrados.
+
+![Listagem de Canais](assets/Front.channel.list.png)
 
 ### 2.3. Regras
 
-TDB
+Tela de criação de regras.
+
+![Criação de Regras](assets/Front.rule.create.png)
+
+Tela de listagem de regras criadas.
+
+![Criação de Regras](assets/Front.rule.list.png)
 
 ## 2.4. Execução
+
+Tela da execução de uma regra com o resultado de vizualização gráfica.
+
+![Execução de Regras com Vizualização Gráfica](assets/Front.rule.execute.graph.png)
+
+Tela de execução de uma regra com o resultado textual.
+
+![Execução de Regras com Vizualização Gráfica](assets/Front.rule.execute.png)
 
 
 

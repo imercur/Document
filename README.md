@@ -41,5 +41,3 @@ Tela de execução de uma regra com o resultado textual.
 
 ![Execução de Regras com Vizualização Gráfica](assets/Front.rule.execute.png)
 
-
-
